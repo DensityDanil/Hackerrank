@@ -46,3 +46,21 @@
 2023-08-18 08:24:59,806 [5652] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2023-08-18 08:24:59,807 [5652] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2023-08-18 08:24:59,808 [5652] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-08-18 10:18:46,380 [5652] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-08-18 10:18:46,380 [5652] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-08-18 10:18:46,381 [5652] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-08-18 10:18:46,386 [5652] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-08-18 10:18:46,388 [5652] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-08-18 10:18:46,389 [5652] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-07 19:37:21,214 [4772] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-07 19:37:21,215 [4772] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-07 19:37:21,216 [4772] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-07 19:37:21,220 [4772] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-07 19:37:21,222 [4772] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-07 19:37:21,223 [4772] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-09-07 19:37:22,047 [4772] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-09-07 19:37:22,048 [4772] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-09-07 19:37:22,048 [4772] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-09-07 19:37:22,055 [4772] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-09-07 19:37:22,057 [4772] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-09-07 19:37:22,059 [4772] DEBUG    root:97: [JupyterRequire] Registering comm targets.
